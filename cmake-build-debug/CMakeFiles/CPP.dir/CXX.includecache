@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/UIS/Documents/CPP/chapter1/farlongs.cpp
+
+/Users/UIS/Documents/CPP/chapter1/fullname.cpp
+
+/Users/UIS/Documents/CPP/chapter1/lightyear.cpp
+
+/Users/UIS/Documents/CPP/chapter1/limits.cpp
+iostream
+-
+climits
+-
+
+/Users/UIS/Documents/CPP/chapter1/mice.cpp
+
+/Users/UIS/Documents/CPP/chapter1/temperature.cpp
+
+/Users/UIS/Documents/CPP/chapter1/time.cpp
+
+/Users/UIS/Documents/CPP/chapter1/years_to_month.cpp
+
